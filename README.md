@@ -8,7 +8,7 @@ Job scripts are written for LSF job scheduler and will need adjusting for other 
 
 - Sample fastq files, with files named \{sample\}\_1.fastq.gz and \{sample\}\_2.fastq.gz
 - Host fasta, bwa indexed
-- ./viral\genome/viral\_genome.fa: Vector genome fasta, bwa indexed
+- ./viral\_genome/viral\_genome.fa: Vector genome fasta, bwa indexed
 - Directory structure as contained in this repo
 - Optionally, ./data/secondary/meta/Meta.csv metadata file
 
